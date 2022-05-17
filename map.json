@@ -720,11 +720,11 @@
         {
          "columns":9,
          "firstgid":2683,
-         "image":"..\/tiles\/unifrbigsmall.png",
+         "image":"src\/assets\/unifrbigsmall.png",
          "imageheight":300,
          "imagewidth":300,
          "margin":0,
-         "name":"UniFr Logo",
+         "name":"Uni Fr Logo",
          "spacing":0,
          "tilecount":81,
          "tileheight":32,
